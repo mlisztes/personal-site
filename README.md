@@ -35,4 +35,4 @@ E.g., follow [this YouTube tutorial](https://www.youtube.com/watch?v=K5DTIf-jWhk
 ## Acknowledgements
 
 * Documentation inspired by the personal website of [@mldangelo](https://github.com/mldangelo).
-* Deployment followed the tutorial of [@antonputra](https://github.com/antonputra).git branch.
+* Deployment followed the tutorial of [@antonputra](https://github.com/antonputra).
