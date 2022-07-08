@@ -1,0 +1,23 @@
+.cell{
+    display: table-cell;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.welcome.message{
+    position: relative;
+    text-align: left;
+    max-width: 600px;
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.guiding.text{
+    color: #D2365E;
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 10px;
+}
