@@ -2,7 +2,7 @@
 
 My personal website – built with React. 
 
-See: [monikalisztes.com](https://monikalisztes.com/)
+See: [mlisztes.github.io/personal-site/](https://mlisztes.github.io/personal-site/)
 
 ## Dependencies
 
