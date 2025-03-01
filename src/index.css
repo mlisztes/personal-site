@@ -5,7 +5,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acron
  font-style:inherit;
  font-size:100%;
  font-family:inherit;
- vertical-align:baseline;
+ vertical-align: baseline;
  margin:0;
  padding:0
 }
@@ -15,7 +15,8 @@ html{
 }
 
 h2 {
-    font-size: 42px;
-    line-height: 48px;
-    margin-bottom: 20px;
+    font-size: 35px;
+    line-height: 42px;
+    margin-bottom: 16px;
+    color: #424242;
 }
