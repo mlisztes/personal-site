@@ -11,6 +11,34 @@
     margin: 5px
 }
 
-a{
+.menu{ 
+    min-width: 150px; 
+    max-width: 250px; 
+    margin-top: 20px;
+    margin-left: 30px;
+    /* font-family: "PT Sans", sans-serif; */
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.menu ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li{
+    margin-bottom: 0.8rem;
+}
+
+.menu a{
     text-decoration: none;
+    color:#000000
+}
+
+.menu a:hover{
+    color: gray; 
 }

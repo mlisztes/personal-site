@@ -4,10 +4,11 @@ import './Header.css';
 
 const Header = () => {
     return(
-        <div>
-            <Link to="/">
-                <div className="logo">M</div>
-            </Link>
+        <div className='menu'>
+            <ul>
+                <Link to="/"><li>Válogatott fordítások</li></Link>
+                <li>Lisztes Éva (1989)</li>
+            </ul>
         </div>
     );
 };

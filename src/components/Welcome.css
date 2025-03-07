@@ -2,22 +2,70 @@
     display: table-cell;
     width: 100%;
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
+    margin: auto;
+    top: 20%;
+    /* transform: translateY(-50%);  */
 }
 
-.welcome.message{
+.poem.author{
     position: relative;
     text-align: left;
     max-width: 600px;
     width: 92%;
     margin-left: auto;
     margin-right: auto;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 32px;
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
 }
 
-.guiding.text{
-    color: #D2365E;
+.poem.title{
+    position: relative;
+    text-align: left;
+    max-width: 600px;
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 25px;
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.russian{
+    color: rgb(154, 154, 154);
+    text-indent: 1em;
+}
+
+.poem.text{
+    color: #000000;
+    position: relative;
+    text-align: left;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 92%;
     font-size: 18px;
     line-height: 26px;
     margin-bottom: 10px;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.verse{
+    margin-bottom: 1em;
+}
+
+.year{
+    font-size: 16px;
+    color: rgb(154, 154, 154);
+    margin-top: -0.75em;
+    margin-bottom: 3em;
 }
