@@ -9,18 +9,23 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-        - name: Checkout
+        - name: Checkout repository
           uses: actions/checkout@v2 
 
-        - name: Build
+        - name: Install dependencies
           run: npm install
 
-        # - name: Test
-        #   run: npm run test
+        - name: Build project
+          run: npm run build
 
-        - name: Deploy
+        - name: List build output (Debugging)
+          run: ls -la dist || echo "dist folder not found!"
+
+        - name: Configure Git
           run: |
             git config --global user.name 'mlisztes'
             git config --global user.email 'lisztesmoni@gmail.com'
             git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-            npm run deploy
+
+        - name: Deploy to GitHub Pages
+          run: npm run deploy
