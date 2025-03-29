@@ -3,6 +3,10 @@ name: Build and Deploy React App to GitHub Pages
 on:
     push: 
         branches: [ main ]
+
+permissions: 
+  contents: write
+
 jobs:
     build-and-deploy: 
         name: Build and Deploy
@@ -21,11 +25,7 @@ jobs:
         - name: List build output (Debugging)
           run: ls -la dist || echo "dist folder not found!"
 
-        - name: Configure Git
-          run: |
-            git config --global user.name 'mlisztes'
-            git config --global user.email 'lisztesmoni@gmail.com'
-            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-
         - name: Deploy to GitHub Pages
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           run: npm run deploy
