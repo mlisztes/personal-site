@@ -19,18 +19,9 @@ jobs:
         - name: Install dependencies
           run: npm install
 
-        - name: Build project
-          run: npm run build
-
-        - name: List build output (Debugging)
-          run: ls -la dist || echo "dist folder not found!"
-
-        - name: Set Git user identity 
+        - name: Deploy 
           run: |
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-        - name: Deploy to GitHub Pages
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          run: npm run deploy
+            git config --global user.name "mlisztes"
+            git config --global user.email "lisztesmoni@gmail.com"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+            npm run deploy
