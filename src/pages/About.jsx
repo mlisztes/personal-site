@@ -1,8 +1,7 @@
 const About = () => {
     return (
-      <div>
-        <h1>Bemutatkozás</h1>
-        <p>...</p>
+      <div className="content-container">
+        <p>Lisztes Éva (1989) magyar műfordító. Munkája elsősorban a 20. század első felének orosz irodalmával foglalkozik, különös figyelmet fordítva Marina Cvetajeva és Szergej Jeszenyin költészetére, valamint Vaszilij Kandinszkij dadaista műveire.</p>
       </div>
     )
   }

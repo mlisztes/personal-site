@@ -6,10 +6,13 @@ import './App.css'
 const App = () => {
   return (
     <div className="app-container">
-      <nav className="sidebar">
-        <Link to="/" className="nav-link">Fordítások</Link>
-        <Link to="/info" className="nav-link">Lisztes Éva</Link>
-      </nav>
+
+      <div className='menu'>
+          <ul>
+              <Link to="/" className="nav-link"><li>Fordítások</li></Link>
+              <Link to="/info" className="nav-link">Lisztes Éva</Link>
+          </ul>
+      </div>
 
       <main className="main-content">
         <Routes>
@@ -17,6 +20,7 @@ const App = () => {
           <Route path="/info" element={<About />} />
         </Routes>
       </main>
+      
     </div>  
   )
 }
