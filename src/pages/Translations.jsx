@@ -1,6 +1,6 @@
-import './Portfolio.css';
+import './Translations.css';
 
-const Portfolio = () => {
+const Translations = () => {
     return (
       <div className='content-container'>
       <div className='block-centered poem author'> Válogatás Marina Cvetajeva verseiből</div>
@@ -28,7 +28,7 @@ const Portfolio = () => {
                 Mindazt, amit az emberek sötét,<br/>
                 Durva nyelvén úgy hívnak: Élet.
             </p>
-            <p className='year'>1918</p>
+            <p className='poem year'>1918</p>
         </div>
       </div>
 
@@ -50,7 +50,7 @@ const Portfolio = () => {
                 Kialszik mindkettő, sugaruk nem éget!<br/>
                 Először a forróbb alszik ki végleg.
             </p>
-            <p className='year'>1915</p>
+            <p className='poem year'>1915</p>
         </div>
       </div>
 
@@ -79,7 +79,7 @@ const Portfolio = () => {
             </p>
             <p className='verse'>
                 És erőtlen dühvel imbolyognak<br/>
-                Hatalmas fák fekte lombjai.
+                Hatalmas fák fekete lombjai.
             </p>
             <p className='verse'>
                 Ó, szorít a földalatti ágy<br/>
@@ -91,12 +91,12 @@ const Portfolio = () => {
                 – Gyerekek, imátok értem szóljon<br/>
                 Az első és a harmadik órán.
             </p>
-            <p className='year'>1916</p>
+            <p className='poem year'>1916</p>
         </div>
       </div>
   </div>
     )
   }
   
-  export default Portfolio
+  export default Translations
   
