@@ -6,7 +6,7 @@ const Writing = () => {
                
       <div className='prose-wrapper'>
         <div className='block-centered prose title'>
-            <p className='hungarian'>Csak engedjen már el</p>
+            <p className='hungarian'>Az árnyék határán (részlet)</p>
         </div>
         <div className='block-centered prose text'>
             <p>– Azt hittem, már sose mosolyog. Hogy van?</p>
@@ -17,8 +17,8 @@ const Writing = () => {
             észrevételei a legérzékenyebb pontjait érték.
             </p>
 
-            <p>– A szorongásom csökkent, de lehet azért, mert rengeteget alszom a mirtazapintól – válaszolta a nő kerülve a szemkontaktust.</p>
-            <p>– És az étvágya javult? Jó lenne, ha legalább 50-55 kiló lenne.</p>
+            <p>– A szorongásom csökkent, de lehet azért is, mert rengeteget alszom a mirtazapintól – válaszolta az orvosnak, kerülve a szemkontaktust.</p>
+            <p>– És nőtt tőle az étvágya? Jó lenne, ha legalább 50-55 kiló lenne.</p>
             <p>– Az étvágyamra nem lehet kémiai eszközökkel hatni – vágta oda ridegen.</p>
             <p>– Most hány kiló?</p>
             <p>– 48.</p>
