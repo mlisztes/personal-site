@@ -40,7 +40,7 @@ const Writing = () => {
             </p>
 
             <p>
-            Léna minimális figyelemmel válaszolt a pszichiáter kérdéseire. Közben
+            Léna kimérten válaszolt a pszichiáter kérdéseire. Közben
             tekintete menedéket keresett a szobában, és végül a szemközti polcon állt
             meg, amely tele volt kis elefántszobrokkal. Ezek a boldog elefántok mind
             hasonlítottak egymásra: fából készültek és az ormányuk az ég felé mutatott.
