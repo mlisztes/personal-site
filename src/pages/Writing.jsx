@@ -36,7 +36,7 @@ const Writing = () => {
             Amíg az orvos a táblázattal bíbelődött, a gondolatai a nő szándékát kutatták.
             Szimpatikusnak találta a fiatal pácienst, szeretett volna segíteni neki.
             Érezte, hogy Léna a figyelmére is vágyott, de nem tudta, hogy csak
-            segítségért jött-e vagy valami mást is remélt tőle.
+            segítségért jött-e vagy valami mást is keresett benne.
             </p>
 
             <p>
@@ -48,7 +48,7 @@ const Writing = () => {
             ólomsúlyú percekkel telt az idő. <em>Csak engedjen már el!</em>
             </p>
 
-            <p>– Akkor egy hónap múlva jöjjön vissza. Minden jót!</p>
+            <p>– Akkor egy hónap múlva jöjjön vissza. És egyen egy jót!</p>
 
             <p>
             Léna gyorsan felállt a székből és megindult az ajtó felé, de megtorpant és
