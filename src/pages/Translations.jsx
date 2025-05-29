@@ -27,7 +27,7 @@ const Translations = () => {
                 A falon villamosok árnyéka jön-megy,<br/>
                 Lent a zenekar zaja már tompább, csendesül...<br/>
                 „Forrjon össze lelkünk szavak nélkül!”<br/>
-                Izgatottan súgod – nem nekem!
+                Súgod izgatottan – nem nekem!
             </p>
             <p className='verse'>
                 „Mennyi könyv!.. Nem kell begyújtani, szerintem:<br/>
