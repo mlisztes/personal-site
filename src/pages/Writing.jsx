@@ -44,11 +44,16 @@ const Writing = () => {
             tekintete menedéket keresett a szobában, és végül a szemközti polcon állt
             meg, amely tele volt kis elefántszobrokkal. Ezek a boldog elefántok mind
             hasonlítottak egymásra: fából készültek és az ormányuk az ég felé mutatott.
-            Az orvossal a beszélgetés nem tartott tovább negyedóránál, de a nő számára
-            ólomsúlyú percekkel telt az idő. <em>Csak engedjen már el!</em>
+            Az orvossal a beszélgetés nem tartott tovább negyedóránál, de a nő számára elviselhetetlen 
+            lassúsággal telt az idő. <em>Csak engedjen már el!</em>
             </p>
 
-            <p>– Akkor egy hónap múlva jöjjön vissza. És egyen egy jót!</p>
+            <p>– Akkor egy hónap múlva jöjjön vissza – mondta a pszichiáter, miközben 
+              aláírta a vizsgálati lapot.  Mikor átnyújtotta Lénának, a nő keleties vonásain 
+              akadt meg a tekintete: a széles járomcsont és a barna szemek a sovány arcon 
+              most még jobban kiemelkedtek. Végül hozzáfűzte: </p>
+
+            <p>– És egyen egy jót!</p>
 
             <p>
             Léna gyorsan felállt a székből és megindult az ajtó felé, de megtorpant és
@@ -57,7 +62,7 @@ const Writing = () => {
             <p>– Az elefántok honnan vannak?</p>
 
             <p>
-            Az orvos halványan elmosolyodott.<br />
+            Az orvos oldalra pillantott és elmosolyodott.<br />
             – Egyszer egy betegemtől kaptam egy elefántot. Utána ezt mások látták, és
             azt hitték, hogy gyűjtöm őket, és sorra hozták az elefántokat.
             </p>
