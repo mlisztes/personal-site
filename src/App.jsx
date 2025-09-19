@@ -10,9 +10,9 @@ const App = () => {
 
       <div className='menu'>
           <ul>
+              <Link to="/" className="nav-link"><li>LISZTES ÉVA</li></Link>
               <Link to="/" className="nav-link"><li>Fordítások</li></Link>
               <Link to="/irasok" className="nav-link"><li>Írások</li></Link>
-              <Link to="/info" className="nav-link">Lisztes Éva</Link>
           </ul>
       </div>
 
@@ -20,7 +20,6 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Translations />} />
           <Route path="/irasok" element={<Writing />} />
-          <Route path="/info" element={<About />} />
         </Routes>
       </main>
       

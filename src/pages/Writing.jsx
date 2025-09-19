@@ -49,15 +49,13 @@ const Writing = () => {
             </p>
 
             <p>– Akkor egy hónap múlva jöjjön vissza – mondta a pszichiáter, miközben 
-              aláírta a vizsgálati lapot.  Mikor átnyújtotta Lénának, a nő keleties vonásain 
-              akadt meg a tekintete: a széles járomcsont és a barna szemek a sovány arcon 
+              aláírta a vizsgálati lapot.  Ahogy átnyújtotta Lénának, a nő keleties vonásaira lett figyelmes: a széles járomcsont és a barna szemek a sovány arcon 
               most még jobban kiemelkedtek. Végül hozzáfűzte: </p>
 
             <p>– És egyen egy jót!</p>
 
             <p>
-            Léna gyorsan felállt a székből és megindult az ajtó felé, de megtorpant és
-            visszafordult:
+            Léna azonnal megindult az ajtó felé, de ott megtorpant és visszafordult:
             </p>
             <p>– Az elefántok honnan vannak?</p>
 
