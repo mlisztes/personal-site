@@ -28,11 +28,11 @@
     font-size: 18px;
     line-height: 26px;
     margin-bottom: 10px;
-    color: #000000;
+    color: #1f1e1d;
   }
 
 .russian{
-    color: rgb(154, 154, 154);
+    color: #928b8b;
     text-indent: 1em;
     margin-top: -1.5rem;
 }
@@ -43,7 +43,7 @@
 
 .poem.year{
     font-size: 16px;
-    color: rgb(154, 154, 154);
+    color: #928b8b;
     margin-top: -0.75em;
     margin-bottom: 3em;
 }

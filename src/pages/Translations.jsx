@@ -7,6 +7,46 @@ const Translations = () => {
 
       <div className='poem-wrapper'>  
         <div className='block-centered poem title'>
+            <p className='hungarian'>Tetszik, hogy a szíve nem az enyém…</p>
+            <p className='russian'>Мне нравится, что Вы больны не мной…</p>
+        </div>
+        <div className='block-centered poem text'>
+            <p className='verse'>
+                Tetszik, hogy a szíve nem az enyém,<br/>
+                Tetszik, hogy a szívem nem a Magáé,<br/>
+                Hogy alattunk biztos a föld, nehéz<br/>
+                És rezzenéstelenül áll örökké.<br/>
+                Tetszik, hogy fesztelen fordul felém<br/>
+                És nem bújik el csalfa szavak mögé,<br/>
+                És elpirulva nem kap el szenvedély,<br/>
+                Ha kezem kezéhez olykor hozzáér.
+            </p>
+            <p className='verse'>
+                Tetszik, hogy előttem más derekát<br/>
+                Fonja át nyugodt lelkiismerettel,<br/>
+                És pokoli tűzbe vetni nem kíván,<br/>
+                Ha hűtlen nem magát csókolom éjjel.<br/>
+                Hogy édes nevem, édesem, gyengéd ajkát<br/>
+                Nem hagyja el sem éjjel, sem nappal – sohasem…<br/>
+                Hogy templom csendjében halleluját<br/>
+                Miértünk soha senki sem énekel!
+            </p>
+            <p className='verse'>
+                Hála ül szívemen s kezem csendjén,<br/>
+                Hogy így szeret – és ez nem lehet másként:<br/>
+                Hogy lelkem nyugodt éjnek idején,<br/>
+                Hogy az alkonyóra nekünk ajándék,<br/>
+                Hogy holdfényes sétákra nincs remény,<br/>
+                Hogy a tündöklő nap felettünk másé;<br/>
+                Hogy a szíve – sajnos – nem az enyém,<br/>
+                Hogy a szívem – sajnos – nem a Magáé!
+            </p>
+            <p className='poem year'>1915</p>
+        </div>
+      </div>  
+
+      <div className='poem-wrapper'>  
+        <div className='block-centered poem title'>
             <p className='hungarian'>Úgy lesz</p>
             <p className='russian'>Так будет</p>
         </div>
@@ -18,20 +58,20 @@ const Translations = () => {
                 Sűrű léptek – nem az enyémek!
             </p>
             <p className='verse'>
-                Nyilik az ajtó... Zúdul be a jeges szél...<br/>
-                Ez a friss, boldog illat... A bánat elrepül...<br/>
+                Nyilik az ajtó… Zúdul be a jeges szél…<br/>
+                Ez a friss, boldog illat… A bánat elrepül…<br/>
                 Pillanatnyi csend, és a küszöbön<br/>
                 Valaki halkan nevet – nem én!
             </p>
             <p className='verse'>
                 A falon villamosok árnyéka jön-megy,<br/>
-                Lent a zenekar zaja már tompább, csendesül...<br/>
+                Lent a zenekar zaja már tompább, csendesül…<br/>
                 „Forrjon össze lelkünk szavak nélkül!”<br/>
                 Súgod izgatottan – nem nekem!
             </p>
             <p className='verse'>
                 „Mennyi könyv!.. Nem kell begyújtani, szerintem:<br/>
-                Úgy kényelmesebb... Most épp elhagytak a szavak”...<br/>
+                Úgy kényelmesebb… Most épp elhagytak a szavak”…<br/>
                 A futó villamos árnyak látnak<br/>
                 Téged a díványon – nem velem!
             </p>
@@ -50,7 +90,7 @@ const Translations = () => {
                 Az egyik: fenn az égen, a másik: bennem.
             </p>
             <p className='verse'>
-                Hogy ez a két Nap – megbocsátok magamnak? –,<br/>
+                Hogy ez a két Nap – megbocsátok magamnak? –<br/>
                 Két Nap: úgy az őrületbe taszítottak!
             </p>
             <p className='verse'>
@@ -64,8 +104,8 @@ const Translations = () => {
       
       <div className='poem-wrapper'>
         <div className='block-centered poem title'>
-            <p className='hungarian'>Éjjel minden szoba fekete...</p>
-            <p className='russian'>По ночам все комнаты черны...</p>
+            <p className='hungarian'>Éjjel minden szoba fekete…</p>
+            <p className='russian'>По ночам все комнаты черны…</p>
         </div>
         <div className='block-centered poem text'>
             <p className='verse'>
@@ -91,8 +131,8 @@ const Translations = () => {
             <p className='verse'>
                 Ó, szorít a földalatti ágy<br/>
                 Éjjel, koromfekete éjjel!<br/>
-                Ó, félek, hogy felemel a vágy,<br/>
-                Suttogok s megcsókolom ajkát...
+                Ó, félek, nem bírom bent tovább,<br/>
+                Suttogok s megcsókolom ajkát…
             </p>
             <p className='verse'>
                 – Gyerekek, imátok értem szóljon<br/>
@@ -104,13 +144,13 @@ const Translations = () => {
 
       <div className='poem-wrapper'>
         <div className='block-centered poem title'>
-            <p className='hungarian'>Az éjek magányban, és az éjek...</p>
-            <p className='russian'>Ночи без любимого — и ночи...</p>
+            <p className='hungarian'>A magányos éjek, és az éjek…</p>
+            <p className='russian'>Ночи без любимого — и ночи…</p>
         </div>
         <div className='block-centered poem text'>
             <p className='verse'>
-                Az éjek magányban, és az éjek<br/>
-                Közöny karjában, és a csillagok<br/>
+                A magányos éjek, és az éjek<br/>
+                Tele megvetéssel, és csillagok<br/>
                 Izzó arcok felett, és a kezek,<br/>
                 Amelyek majd felemelik Azt,<br/>
                 Aki öröktől nem volt – és nem lesz,<br/>
@@ -118,11 +158,11 @@ const Translations = () => {
                 És a gyermek könnyei a hősért,<br/>
                 És a hős könnyei a gyermekért,<br/>
                 És a nagy kőhegyek annak szívén,<br/>
-                Akinek nincs más – csak lefelé...
+                Aki egyre lejjebb kényszerül…
             </p>
             <p className='verse'>
                 Tudok mindent, ami volt, ami lesz,<br/>
-                Minden elhallgatott igazságot,<br/>
+                Tudok minden el nem árult titkot,<br/>
                 Mindazt, amit az emberek sötét,<br/>
                 Durva nyelvén úgy hívnak: Élet.
             </p>
