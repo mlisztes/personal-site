@@ -144,13 +144,13 @@ const Translations = () => {
 
       <div className='poem-wrapper'>
         <div className='block-centered poem title'>
-            <p className='hungarian'>A magányos éjek, és az éjek…</p>
-            <p className='russian'>Ночи без любимого — и ночи…</p>
+            <p className='hungarian'>Az éjek kedves nélkül – az éjek…</p>
+            <p className='russian'>Ночи без любимого – и ночи…</p>
         </div>
         <div className='block-centered poem text'>
             <p className='verse'>
-                A magányos éjek, és az éjek<br/>
-                Tele megvetéssel, és csillagok<br/>
+                Az éjek kedves nélkül – az éjek<br/>
+                Gyanakvókkal, és a nagy csillagok<br/>
                 Izzó arcok felett, és a kezek,<br/>
                 Amelyek majd felemelik Azt,<br/>
                 Aki öröktől nem volt – és nem lesz,<br/>
