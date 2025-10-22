@@ -33,8 +33,8 @@ const Translations = () => {
             </p>
             <p className='verse'>
                 Lelkemmel, két kezemmel mindezért<br/>
-                Hálás vagyok – hogy nem szerethet másként:<br/>
-                Hogy lelkem nyugodt éjnek idején,<br/>
+                Hálás vagyok Önnek, hogy – nem szándékkal! –<br/>
+                Így szeret: hogy békés minden estém,<br/>
                 Hogy az alkonyóra nekünk ajándék,<br/>
                 Hogy holdfényes sétákra nincs remény,<br/>
                 Hogy a tündöklő nap felettünk másé –<br/>
