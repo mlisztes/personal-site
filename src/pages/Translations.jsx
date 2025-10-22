@@ -32,12 +32,12 @@ const Translations = () => {
                 Miértünk soha senki sem énekel!
             </p>
             <p className='verse'>
-                Hála ül szívemen s kezem csendjén,<br/>
-                Hogy így szeret – és ez nem lehet másként:<br/>
+                Lelkemmel, két kezemmel mindezért<br/>
+                Hálás vagyok – hogy nem szerethet másként:<br/>
                 Hogy lelkem nyugodt éjnek idején,<br/>
                 Hogy az alkonyóra nekünk ajándék,<br/>
                 Hogy holdfényes sétákra nincs remény,<br/>
-                Hogy a tündöklő nap felettünk másé;<br/>
+                Hogy a tündöklő nap felettünk másé –<br/>
                 Hogy a szíve – sajnos – nem az enyém,<br/>
                 Hogy a szívem – sajnos – nem a Magáé!
             </p>
@@ -131,7 +131,7 @@ const Translations = () => {
             <p className='verse'>
                 Ó, szorít a földalatti ágy<br/>
                 Éjjel, koromfekete éjjel!<br/>
-                Ó, félek, nem bírom bent tovább,<br/>
+                Ó, félek, nem bírom bent tovább…<br/>
                 Suttogok s megcsókolom ajkát…
             </p>
             <p className='verse'>
@@ -144,12 +144,12 @@ const Translations = () => {
 
       <div className='poem-wrapper'>
         <div className='block-centered poem title'>
-            <p className='hungarian'>A magányos éjek – és az éjek…</p>
+            <p className='hungarian'>A magányos éjek, és az éjek…</p>
             <p className='russian'>Ночи без любимого – и ночи…</p>
         </div>
         <div className='block-centered poem text'>
             <p className='verse'>
-                A magányos éjek – és az éjek<br/>
+                A magányos éjek, és az éjek<br/>
                 Gyanakvókkal, és a nagy csillagok<br/>
                 Izzó arcok felett, és a kezek,<br/>
                 Amelyek majd felemelik Azt,<br/>
@@ -157,8 +157,8 @@ const Translations = () => {
                 Aki nem lehet – lennie kell.<br/>
                 És a gyermek könnyei a hősért,<br/>
                 És a hős könnyei a gyermekért,<br/>
-                És a nagy kőhegyek annak szívén,<br/>
-                Aki zuhan – egyre mélyebbre…
+                És a hatalmas kőhegyek annak<br/>
+                A szívén, akit húz – a mélység…
             </p>
             <p className='verse'>
                 Tudok mindent, ami volt, ami lesz,<br/>
