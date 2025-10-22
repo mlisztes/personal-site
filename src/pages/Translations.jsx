@@ -32,7 +32,7 @@ const Translations = () => {
                 Miértünk soha senki sem énekel!
             </p>
             <p className='verse'>
-                Lelkemmel, két kezemmel mindezért<br/>
+                És lelkemmel, két kezemmel ezért<br/>
                 Hálás vagyok Önnek, hogy – nem szándékkal! –<br/>
                 Így szeret: hogy békés minden estém,<br/>
                 Hogy az alkonyóra nekünk ajándék,<br/>
