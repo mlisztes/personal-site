@@ -12,14 +12,14 @@ const App = () => {
           <ul>
               <Link to="/" className="nav-link"><li>LISZTES ÉVA</li></Link>
               <Link to="/" className="nav-link"><li>Fordítások</li></Link>
-              <Link to="/irasok" className="nav-link"><li>Írások</li></Link>
+              {/* <Link to="/irasok" className="nav-link"><li>Írások</li></Link> */}
           </ul>
       </div>
 
       <main className="main-content">
         <Routes>
           <Route path="/" element={<Translations />} />
-          <Route path="/irasok" element={<Writing />} />
+          {/* <Route path="/irasok" element={<Writing />} /> */}
         </Routes>
       </main>
       
