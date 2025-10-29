@@ -7,6 +7,40 @@ const Translations = () => {
 
       <div className='poem-wrapper'>  
         <div className='block-centered poem title'>
+            <p className='hungarian'>Hamlet és lelkiismeretének párbeszéde</p>
+            <p className='russian'>Диалог Гамлета с совестью</p>
+        </div>
+        <div className='block-centered poem text'>
+            <p className='verse'>
+                — Iszap van a testén <br/>
+                És hínár… Bennük aludni <br/>
+                Vágyott, — de álom ott sincs!<br/>
+                — De én szerettem őt,<br/>
+                Ahogy negyvenezer fivér<br/>
+                Sem tud szeretni!<br/>
+                <pre style={{ display: 'inline' }}>{"           "}</pre>— Hamlet!
+            </p>
+            <p className='verse'>
+                Iszap van a testén:<br/>
+                Iszap!.. És az utolsó koszorú<br/>
+                Felbukott a patakparti rönkökön…<br/>
+                — De én őt szerettem<br/>
+                Ahogy negyvenezer…<br/>
+                <pre style={{ display: 'inline' }}>{"           "}</pre>— Kevésbé,<br/>
+                Mégis, mint egyetlen szerető.
+            </p>
+            <p className='verse'>
+            Iszap van a testén.<br/>
+            — De őt —<br/>
+            <pre style={{ display: 'inline' }}>{"       "}</pre><em>(zavarodottan)</em><br/>
+            <pre style={{ display: 'inline' }}>{"               "}</pre>— szerettem én??
+            </p>
+            <p className='poem year'>1923</p>
+        </div>
+      </div> 
+
+      <div className='poem-wrapper'>  
+        <div className='block-centered poem title'>
             <p className='hungarian'>Tetszik, hogy a szíve nem az enyém…</p>
             <p className='russian'>Мне нравится, что Вы больны не мной…</p>
         </div>
