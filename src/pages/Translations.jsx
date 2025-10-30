@@ -12,28 +12,28 @@ const Translations = () => {
         </div>
         <div className='block-centered poem text'>
             <p className='verse'>
-                — Iszap van a testén <br/>
+                — Iszap fedi testét <br/>
                 És hínár… Bennük aludni <br/>
-                Vágyott, — de álom ott sincs!<br/>
+                Vágyott, — ott nincs álom!<br/>
                 — De én szerettem őt,<br/>
                 Ahogy negyvenezer fivér<br/>
                 Sem tud szeretni!<br/>
                 <pre style={{ display: 'inline' }}>{"           "}</pre>— Hamlet!
             </p>
             <p className='verse'>
-                Iszap van a testén:<br/>
-                Iszap!.. És az utolsó koszorú<br/>
+                Iszap fedi testét:<br/>
+                Iszap!.. Az utolsó koszorú már<br/>
                 Felbukott a patakparti rönkökön…<br/>
-                — De én őt szerettem<br/>
+                — De én szerettem őt<br/>
                 Ahogy negyvenezer…<br/>
                 <pre style={{ display: 'inline' }}>{"           "}</pre>— Kevésbé,<br/>
                 Mégis, mint egyetlen szerető.
             </p>
             <p className='verse'>
-            Iszap van a testén.<br/>
-            — De őt —<br/>
+            Iszap fedi testét.<br/>
+            — De én —<br/>
             <pre style={{ display: 'inline' }}>{"       "}</pre><em>(zavarodottan)</em><br/>
-            <pre style={{ display: 'inline' }}>{"               "}</pre>— szerettem én??
+            <pre style={{ display: 'inline' }}>{"               "}</pre>— szerettem őt??
             </p>
             <p className='poem year'>1923</p>
         </div>
