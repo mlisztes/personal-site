@@ -24,10 +24,10 @@ const Translations = () => {
                 Iszap fedi testét:<br/>
                 Iszap!.. Az utolsó koszorú már<br/>
                 Felbukott a patakparti rönkökön…<br/>
-                — De én szerettem őt<br/>
+                — De én szerettem őt,<br/>
                 Ahogy negyvenezer…<br/>
-                <pre style={{ display: 'inline' }}>{"           "}</pre>— Kevésbé,<br/>
-                Mégis, mint egyetlen szerető.
+                <pre style={{ display: 'inline' }}>{"           "}</pre>— Ez kevesebb,<br/>
+                így is, mint egy szerető.
             </p>
             <p className='verse'>
             Iszap fedi testét.<br/>
@@ -66,7 +66,7 @@ const Translations = () => {
                 Miértünk soha senki sem énekel!
             </p>
             <p className='verse'>
-                És lelkemmel, két kezemmel ezért<br/>
+                És lelkemmel, két kezemmel azért<br/>
                 Hálás vagyok Önnek, hogy – nem szándékkal! –<br/>
                 Így szeret: hogy békés minden estém,<br/>
                 Hogy az alkonyóra nekünk ajándék,<br/>
@@ -170,9 +170,9 @@ const Translations = () => {
             </p>
             <p className='verse'>
                 – Gyerekek, imátok értem szóljon<br/>
-                Az első és a harmadik órán.
+                Az első és a harmadik órán*.
             </p>
-            <p className='poem year'>1916</p>
+            <p className='poem year'>1916<br/>*Az ortodox keresztény egyház imaóráira utal.</p>
         </div>
       </div>
 
