@@ -62,6 +62,29 @@ const Writing = () => {
 
       <div className='prose-wrapper'>
         <div className='block-centered prose title'>
+            <p className='hungarian'>Hangulatjelentés</p>
+        </div>
+        <div className='block-centered prose text'>
+            <p>Hétfőn levert vagyok <br/>
+            Kedden levert vagyok <br/>
+            Szerdán sincs változás. <br/>
+            Na, végre átaludtam az éjszakát! <br/>
+            Csütörtökön csendben szenvedek. <br/>
+            Pénteken átmeneti megnyugvás, <br/>
+            Szombaton újabb kiborulás. <br/>
+            Vasárnap csak bámulom a zöld falat. <br/>
+            A jövő heti előrejelzés: <br/>
+            Helyenként lehet egy-egy fellángolás, <br/>
+            Néhol előfordulhat felhőtlen kacagás. <br/>
+            Marad az őrület, a magam módján <br/>
+            megtalált boldogtalanság.</p>
+
+            <p className='prose year'>2024</p>
+        </div>
+      </div>
+
+      <div className='prose-wrapper'>
+        <div className='block-centered prose title'>
             <p className='hungarian'>Néhány haiku</p>
         </div>
         <div className='block-centered prose text'>
