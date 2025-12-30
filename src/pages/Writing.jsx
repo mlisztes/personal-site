@@ -21,13 +21,13 @@ const Writing = () => {
             hogy meggyőzzem magam, tényleg átbillentek a kapcsolók. <em>7:02, sima ügy.</em>
             </p>
 
-            <p className='fact'><strong>1. tény:</strong> Az Effelsbergi 100m-es rádióteleszkóp fehér festékborítását minden nyáron karbantartják. 
+            <p className='fact'><strong>1. tény:</strong> Az effelsbergi 100 méteres rádióteleszkóp fehér festékborítását minden nyáron karbantartják. 
             10 nyár alatt festik le az egészet, aztán kezdhetik elölről.</p>
 
             <p><em>Biztos mindegyik kapcsolót ellenőriztem? Inkább megnézem még egyszer.</em> Másodperceken át bámulom a hálószobai kapcsolót, de ez nem győz meg. 
               Újra nekifutok, ezúttal végigsimítom. <em>5 simítás elég lesz. Tényleg le van kapcsolva</em> – és ezt hangosan is megerősítem. 
               <em> 7:05, már huszonötötödjére simítom végig ezt a nyamvadt kapcsolót! És még 7 kapcsoló hátra van, és utána jönnek a csapok és a nyílászárók. 
-              Erre nincs idő. Gyerünk, Évi!</em> – kiáltok fel buzdításnak színlelt kétségbeeséssel. 7:14, kezdem elveszíteni a türelmemet magammal szemben, 
+              Erre nincs idő! Gyerünk, Évi!</em> – kiáltok fel buzdításnak színlelt kétségbeeséssel. 7:14, kezdem elveszíteni a türelmemet magammal szemben, 
               futva fogom elérni a buszt. </p>
 
             <p className='fact'><strong>2. tény:</strong> Gyerekkoromban ábrándoztam arról, hogy kastélyban fogok élni. </p>
@@ -88,7 +88,7 @@ const Writing = () => {
             <p className='hungarian'>Néhány haiku</p>
         </div>
         <div className='block-centered prose text'>
-            <p className='fact'>Nyírfa tetején <br/> fülesbaglyok alszanak:<br/>várják a tavaszt</p>
+            <p className='fact'>Nyírfa tetején <br/> fülesbaglyok alszanak:<br/>várják a tavaszt.</p>
             <p className='fact'>Virágzik a hárs, <br/>felette fecske röppen – <br/>vihar közeleg.</p>
             <p className='fact'>Már megy le a Nap, <br/>vele szemben kel a Hold, <br/>egyedül vagyok.</p>
 
